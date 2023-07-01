@@ -1,0 +1,5 @@
+Based on Gender, Age ,Salary  - provide a model for purchase prediction.
+
+Before preparing the model do proper EDA.
+
+Submit the assignment in HTML notebook with proper inference and analysis.
